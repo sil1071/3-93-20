@@ -1,0 +1,4 @@
+[submodule "beta3924-7"]
+	path = models/beta3924-7
+	url = https://huggingface.co/silencer107/beta3924-7
+	branch = main
